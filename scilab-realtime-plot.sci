@@ -1,4 +1,5 @@
-
-while(a<10),
-    a=1+a
-    end
+cpt=0
+while(cpt<10),
+    cpt=1+cpt
+    disp(cpt)
+end
